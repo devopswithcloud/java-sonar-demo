@@ -154,7 +154,8 @@ mvn sonar:sonar \
   Use `-Dsonar.login=<TOKEN>` (not `-Dsonar.token` for SonarQube server).
 
 * **Java version issues**
-  Match your installed JDK (e.g., 17). Update `maven.compiler.source/target` if needed
+  Match your installed JDK (e.g., 17). Update `maven.compiler.source/target` if needed.
 
 
 ---
+
